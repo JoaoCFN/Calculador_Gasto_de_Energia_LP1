@@ -1,4 +1,4 @@
-# Calculador_Gasto_de_Energia
+# Calculador_Gasto_de_Energia_LP1
 
 Sistema de cálculo de gasto de energia desenvolvido em linguagem C
 
